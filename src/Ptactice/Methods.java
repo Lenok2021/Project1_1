@@ -7,6 +7,8 @@ public class Methods {
         int a = 8;
         int b = 4;
         int result = divide(a,b);
+        // comment
+        //add comment2
     }
 
     public static int divide(int num1, int num2){
